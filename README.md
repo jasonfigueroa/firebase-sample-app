@@ -4,7 +4,7 @@ This is a basic app with JavaScript & jQuery
 Make sure to replace the config settings with the settings unique to your project.
 
 From the Project Overview page click the the right-most circle with the label that reads, "Add Firebase to your web app". 
-!(images-for-readme/add-firebase-to-app.png)
+[(https://github.com/jasonfigueroa/firebase-sample-app/blob/master/images-for-readme/add-firebase-to-app.png)]
 
 On click you should see something like the following.
 !(images-for-readme/firebase-config.png)
@@ -15,4 +15,4 @@ Make sure your database rules look like the following for simplicity. Anyone wil
 !(images-for-readme/database-rules.png)
 
 Run the app and on clicking the submit button with valid data you should see the results posted to firebase.
-!(images-for-readme/results.png)
+[!(images-for-readme/results.png)]
