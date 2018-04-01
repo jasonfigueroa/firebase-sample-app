@@ -4,7 +4,7 @@ This is a basic app with JavaScript & jQuery
 Make sure to replace the config settings with the settings unique to your project.
 
 From the Project Overview page click the the right-most circle with the label that reads, "Add Firebase to your web app". 
-!(https://raw.githubusercontent.com/jasonfigueroa/firebase-sample-app/master/images-for-readme/add-firebase-to-app.png)
+![alt text](https://raw.githubusercontent.com/jasonfigueroa/firebase-sample-app/master/images-for-readme/add-firebase-to-app.png)
 
 On click you should see something like the following.
 !(images-for-readme/firebase-config.png)
